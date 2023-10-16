@@ -1,2 +1,2 @@
-# MGCL
+# MGCL: Multi-Grained Contrastive Representation Learning for Label-efficient Lesion Segmentation and Onset Time Classification of Acute Ischemic Stroke.
 We propose a multi-grained contrastive representation learning (MGCL) framework to learn lesion-related representations from both coarse-grained and fine-grained levels, which aims to facilitate the downstream AIS analysis task including ischemic lesion segmentation and the time since stroke (TSS) onset classification. In this work, we constructed a standard multi-center MRI acute ischemic stroke dataset (MMIS), hoping it can promote future related studies on the AIS analysis. Currently, we are further organizing data and transforming the data format so that it can be accessed more conveniently and quickly. 
