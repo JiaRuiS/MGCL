@@ -9,3 +9,4 @@ MMIS includes the paired multi-modal MRI pre-treatment imaging for unwitnessed A
 ## Annotation categories
 MMIS includes two annotation categories: (1) pixel-level annotations for ischemic lesions on each MRI modal for lesion segmentation (2) patient-level TSS classification labels (ie., TSS < 4.5h or TSS ≥ 4.5h ) for TSS classification.
 ## Annotation Demo
+<img src="https://github.com/JiaRuiS/MGCL/blob/main/data/data demo.PNG" width="532" height="312" alt="微信小程序"/><br/>
