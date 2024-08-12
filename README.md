@@ -4,7 +4,7 @@ We propose a multi-grained contrastive representation learning (MGCL) framework 
 # Dataset
 ## Inclusion Criteria
 MMIS includes multiple inclusion criteria: (a) The AIS patients are within 24 hours of clear symptom onset. (b) The volume of the ischemic lesions needs to be greater than 1 cc (c) The time of the stroke symptom onset and MRI imaging on admission are recorded (d) The images with severe artifacts were excluded.
-## Data Modal
+## Data Modality
 MMIS includes the paired multi-modal MRI pre-treatment imaging for unwitnessed AIS patients, DWI, FLAIR, and PWI. 
 ## Annotation categories
 MMIS includes two annotation categories: (1) pixel-level annotations for ischemic lesions on each MRI modal for lesion segmentation (2) patient-level TSS classification labels (ie., TSS < 4.5h or TSS ≥ 4.5h ) for TSS classification.
