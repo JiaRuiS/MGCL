@@ -10,3 +10,16 @@ MMIS includes the paired multi-modal MRI pre-treatment imaging for unwitnessed A
 MMIS includes two annotation categories: (1) pixel-level annotations for ischemic lesions on each MRI modal for lesion segmentation (2) patient-level TSS classification labels (ie., TSS < 4.5h or TSS ≥ 4.5h ) for TSS classification.
 ## Annotation Demo
 <img src="https://github.com/JiaRuiS/MGCL/blob/main/data/data demo.png" width="900" height="500" alt="demo"/><br/>
+
+# Citation
+If you find our approaches useful in your research, please consider citing:
+```
+@article{sun2024multi,
+  title={Multi-grained contrastive representation learning for label-efficient lesion segmentation and onset time classification of acute ischemic stroke},
+  author={Sun, Jiarui and Liu, Yuhao and Xi, Yan and Coatrieux, Gouenou and Coatrieux, Jean-Louis and Ji, Xu and Jiang, Liang and Chen, Yang},
+  journal={Medical Image Analysis},
+  pages={103250},
+  year={2024},
+  publisher={Elsevier}
+}
+```
